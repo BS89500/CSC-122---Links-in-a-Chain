@@ -12,4 +12,4 @@ class Link {
     std::string get_material() {
       return this->material;
     }
-}
+};
